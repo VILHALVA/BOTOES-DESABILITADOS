@@ -1,17 +1,18 @@
 # BOTOES DESABILITADOS
 🔐APRENDA A DESABILITAR OS BOTÕES DO SEU FORMULÁRIO COMO VALIDAÇÃO! 
 
-<img src="./IMAGENS/FOTO_1.png" align="center" width="500"> <br><br>
-<img src="./IMAGENS/FOTO_2.png" align="center" width="500"> <br><br>
-<img src="./IMAGENS/FOTO_3.png" align="center" width="500"> <br>
+<img src="./IMAGENS/FOTO_01.png" align="center" width="500"> <br><br>
+<img src="./IMAGENS/FOTO_02.png" align="center" width="500"> <br><br>
+<img src="./IMAGENS/FOTO_03.png" align="center" width="500"> <br>
 
 ## DESCRIÇÃO E RECURSOS:
-Este é um aplicativo simples que demonstra como desabilitar e habilitar botões com base na entrada do usuário e exibir os dados inseridos em um formulário.
+Este é um aplicativo simples que permite ao usuário inserir seu nome e idade em campos de texto. Quando os campos estão preenchidos, os botões `EXIBIR` e `LIMPAR` são habilitados. Ao clicar em `EXIBIR`, os dados inseridos são exibidos abaixo do formulário, os campos de entrada de nome e idade são desabilitados temporariamente para evitar mais entrada de dados e o botão `EXIBIR` também é desabilitado para evitar cliques repetidos. 
 
 1. **Entrada de Usuário:** O usuário pode inserir seu nome e idade nos campos de texto fornecidos.
-2. **Botões Desabilitados:** Os botões `EXIBIR` e `LIMPAR` inicialmente estão desabilitados até que ambos os campos (nome e idade) sejam preenchidos.
+2. **Botões Habilitados:** Os botões `EXIBIR` e `LIMPAR` são habilitados apenas quando ambos os campos (nome e idade) estão preenchidos.
 3. **Feedback Visual:** Os botões mudam de estilo (cor) quando estão habilitados para indicar que podem ser clicados.
-4. **Exibição de Dados:** Quando o usuário clica no botão `EXIBIR`, os dados inseridos (nome e idade) são exibidos abaixo do formulário.
+4. **Exibição de Dados:** Quando o usuário clica no botão `EXIBIR`, os dados inseridos (nome e idade) são exibidos abaixo do formulário. Além disso, os campos de entrada de nome e idade são temporariamente desabilitados e o botão `EXIBIR` também é temporariamente desabilitado para evitar cliques repetidos.
+5. **Limpeza de Dados:** Ao clicar no botão `LIMPAR`, os campos de entrada de nome e idade são limpos e reabilitados para permitir nova entrada de dados. Além disso, os dados exibidos são removidos.
 
 ## MANUAL:
 ### O que é um botão desabilitado?
@@ -69,9 +70,10 @@ unzip BOTOES-DESABILITADOS.zip
 ### EXECUTANDO O PROJETO:
 1. Abra o arquivo `CODIGO.html` em seu navegador de preferência.
 2. Insira seu nome e idade nos campos de texto fornecidos.
-3. O botão `EXIBIR` estará desabilitado até que ambos os campos (nome e idade) sejam preenchidos.
-4. Assim que ambos os campos forem preenchidos, o botão `EXIBIR` ficará habilitado. Clique nele para exibir os dados inseridos abaixo do formulário.
-5. O botão `LIMPAR` estará habilitado assim que algum dos campos estiver preenchido. Clique nele para limpar os campos e ocultar os dados exibidos.
+3. Os botões `EXIBIR` e `LIMPAR` estarão desabilitados até que ambos os campos (nome e idade) sejam preenchidos.
+4. Assim que ambos os campos forem preenchidos, os botões `EXIBIR` e `LIMPAR` ficarão habilitados.
+5. Clique em `EXIBIR` para exibir os dados inseridos abaixo do formulário. Os campos de entrada de nome e idade serão temporariamente desabilitados e o botão `EXIBIR` será temporariamente desabilitado para evitar cliques repetidos.
+6. Clique em `LIMPAR` para limpar os campos e ocultar os dados exibidos. Os campos de entrada de nome e idade serão reabilitados para permitir nova entrada de dados.
 
 ## NÃO SABE?
 - Entendemos que para manipular arquivos em `HTML`, `CSS` e outras linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
