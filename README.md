@@ -117,6 +117,6 @@ unzip BOTOES-DESABILITADOS.zip
 * [Confira mais cursos](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## CREDITOS:
-- [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
+- [ESSE MINICURSO E PROJETO FOI CRIADO PELO VILHALVA](https://github.com/VILHALVA)
 - [ESTÁ DISPONIVEL NO SITE](https://vilhalva.github.io/STYLER/STYLER.html)
 
