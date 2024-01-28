@@ -4,19 +4,24 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>BOTÕES DESABILITADOS</title>
-    <link rel="stylesheet" href="CODIGO.css">
+    <link rel="stylesheet" href="CODIGO.css"> <!-- Importa o arquivo CSS -->
 </head>
 <body>
     <main>
         <h1>BOTÕES OFF</h1>
         <form id="myForm">
+            <!-- Campo de entrada para o nome -->
             <input type="text" id="name" autocomplete="off" placeholder="Digite o seu nome">
+            <!-- Campo de entrada para a idade -->
             <input type="number" id="age" autocomplete="off" placeholder="Digite a sua idade">
+            <!-- Botão para exibir os dados -->
             <button type="button" id="exibir" class="disabled" disabled>EXIBIR</button>
+            <!-- Botão para limpar os campos -->
             <button type="button" id="limpar" class="disabled" disabled>LIMPAR</button>
         </form>
+        <!-- Div para exibir os resultados -->
         <div id="res"></div>
     </main>
-    <script src="CODIGO.js"></script>
+    <script src="CODIGO.js"></script> <!-- Importa o arquivo JavaScript -->
 </body>
 </html>
