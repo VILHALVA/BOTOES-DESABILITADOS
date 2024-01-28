@@ -13,7 +13,7 @@ Este é um aplicativo simples que permite ao usuário inserir seu nome e idade e
 3. **Feedback Visual:** Os botões mudam de estilo (cor) quando estão habilitados para indicar que podem ser clicados.
 4. **Exibição de Dados:** Quando o usuário clica no botão `EXIBIR`, os dados inseridos (nome e idade) são exibidos abaixo do formulário. Além disso, o botão `EXIBIR` é temporariamente desabilitado para evitar cliques repetidos. O botão `LIMPAR` será habilitado apenas se ambos os campos (nome e idade) estiverem preenchidos. Se o campo de nome contiver números ou se qualquer um dos campos estiver vazio, o botão `LIMPAR` será desabilitado.
 
-## MANUAL:
+## MINICURSO:
 ### O QUE É UM BOTÃO DESABILITADO?
 Um botão desabilitado em um formulário web é um botão que é incapaz de ser clicado ou interagido enquanto certas condições não forem atendidas. Ele geralmente é usado para evitar a submissão de dados incompletos ou inválidos, garantindo que o usuário preencha todos os campos necessários antes de prosseguir.
 
