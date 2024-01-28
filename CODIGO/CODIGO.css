@@ -1,71 +1,83 @@
+/* Estilos para o corpo da página */
 body {
-    background-color: #212121;  
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
+    background-color: #212121;  /* Cor de fundo */
+    font-family: Arial, sans-serif; /* Fonte padrão */
+    margin: 0; /* Remove margens */
+    padding: 0; /* Remove preenchimento */
+    display: flex; /* Usa o modelo de layout flexbox */
+    justify-content: center; /* Alinha os itens horizontalmente ao centro */
+    align-items: center; /* Alinha os itens verticalmente ao centro */
+    height: 100vh; /* Altura igual à altura da viewport */
 }
 
+/* Estilos para o cabeçalho */
 h1 {
-    text-align: center;
+    text-align: center; /* Alinhamento do texto centralizado */
 }
 
+/* Estilos para o cabeçalho e div de resultados */
 h1, #res {
-    color: white;
+    color: white; /* Cor do texto */
 }
 
+/* Estilos para o conteúdo principal */
 main {
-    background-color: #45a049;
-    padding: 20px;
-    border-radius: 10px;
-    max-width: 400px;
-    width: 100%;
+    background-color: #45a049; /* Cor de fundo */
+    padding: 20px; /* Espaçamento interno */
+    border-radius: 10px; /* Bordas arredondadas */
+    max-width: 400px; /* Largura máxima */
+    width: 100%; /* Largura total */
 }
 
+/* Estilos para o formulário */
 form {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
+    display: flex; /* Usa o modelo de layout flexbox */
+    flex-direction: column; /* Direção da disposição dos itens */
+    gap: 10px; /* Espaço entre os elementos */
 }
 
+/* Estilos para os campos de entrada e botões */
 input[type="text"], input[type="number"], button {
-    padding: 10px;
-    border: none;
-    border-radius: 5px;
-    background-color: #333;
-    color: #fff;
-    font-size: 16px;
+    padding: 10px; /* Espaçamento interno */
+    border: none; /* Remove a borda */
+    border-radius: 5px; /* Bordas arredondadas */
+    background-color: #333; /* Cor de fundo */
+    color: #fff; /* Cor do texto */
+    font-size: 16px; /* Tamanho da fonte */
 }
 
+/* Estilos para os botões */
 button {
-    cursor: pointer;
-    transition: opacity 0.3s, background-color 0.3s;
+    cursor: pointer; /* Mostra o cursor de ponteiro */
+    transition: opacity 0.3s, background-color 0.3s; /* Transição suave */
 }
 
+/* Estilos para os botões desabilitados */
 button:disabled {
-    opacity: 0.5;
-    cursor: not-allowed;
+    opacity: 0.5; /* Opacidade reduzida */
+    cursor: not-allowed; /* Cursor de não permitido */
 }
 
+/* Estilos para os botões habilitados */
 button.enabled {
-    background-color: #370ada; 
+    background-color: #370ada; /* Cor de fundo */
 }
 
+/* Estilos para os botões habilitados ao passar o mouse */
 button.enabled:hover {
-    background-color: #c00808; 
+    background-color: #c00808; /* Cor de fundo */
 }
 
+/* Estilos para os botões ao serem clicados */
 button:active {
-    transform: translateY(2px);
+    transform: translateY(2px); /* Translação no eixo Y */
 }
 
+/* Estilos para a div de resultados */
 #res {
-    background-color: #444;
-    padding: 10px;
-    border-radius: 5px;
-    margin-top: 10px;
-    display: none;
+    background-color: #444; /* Cor de fundo */
+    padding: 10px; /* Espaçamento interno */
+    border-radius: 5px; /* Bordas arredondadas */
+    margin-top: 10px; /* Margem superior */
+    display: none; /* Inicialmente oculto */
 }
