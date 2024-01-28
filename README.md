@@ -1,5 +1,5 @@
 # BOTOES DESABILITADOS
-🔐APRENDA A DESABILITAR OS BOTÕES DO SEU FORMULÁRIO COMO VALIDAÇÃO! 
+🔐APRENDA A DESABILITAR OS BOTÕES E CAMPOS DO SEU FORMULÁRIO COMO VALIDAÇÃO! 
 
 <img src="./IMAGENS/FOTO_01.png" align="center" width="500"> <br><br>
 <img src="./IMAGENS/FOTO_02.png" align="center" width="500"> <br><br>
