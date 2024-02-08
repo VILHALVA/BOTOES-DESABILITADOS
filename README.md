@@ -47,8 +47,8 @@ unzip BOTOES-DESABILITADOS.zip
 * [Curso de JavaScript](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
 * [Confira mais cursos](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
-## CREDITOS:
-- [ESSE MINICURSO FOI CRIADO PELO VILHALVA](https://github.com/VILHALVA)
+## SUBSÍDIOS:
 - [CLIQUE AQUI PARA ACESSAR AO MINICURSO](./MINICURSO.md)
+- [ESSE MINICURSO FOI CRIADO PELO VILHALVA](https://github.com/VILHALVA)
 - [ESTÁ DISPONIVEL NO SITE](https://vilhalva.github.io/STYLER/STYLER.html)
 
