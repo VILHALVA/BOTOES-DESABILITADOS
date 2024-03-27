@@ -13,27 +13,7 @@ Este é um aplicativo simples que permite ao usuário inserir seu nome e idade e
 3. **Feedback Visual:** Os botões mudam de estilo (cor) quando estão habilitados para indicar que podem ser clicados.
 4. **Exibição de Dados:** Quando o usuário clica no botão `EXIBIR`, os dados inseridos (nome e idade) são exibidos abaixo do formulário. Além disso, o botão `EXIBIR` é temporariamente desabilitado para evitar cliques repetidos. O botão `LIMPAR` será habilitado apenas se ambos os campos (nome e idade) estiverem preenchidos. Se o campo de nome contiver números ou se qualquer um dos campos estiver vazio, o botão `LIMPAR` será desabilitado.
 
-## COMO USAR?
-### BAIXANDO O PROJETO:
-* Clone o repositório para o seu sistema local:
-
-```bash
-git clone https://github.com/VILHALVA/BOTOES-DESABILITADOS.git
-```
-
-* Navegue até o diretório do projeto.
-
-```bash
-cd BOTOES-DESABILITADOS
-```
-
-* Descompacte o arquivo ZIP (se você baixou manualmente):
-
-```bash
-unzip BOTOES-DESABILITADOS.zip
-``` 
-
-### EXECUTANDO O PROJETO:
+## EXECUTANDO O PROJETO:
 1. Abra o arquivo `CODIGO.html` em seu navegador de preferência.
 2. Insira seu nome e idade nos campos de texto fornecidos.
 3. Os botões `EXIBIR` e `LIMPAR` estarão desabilitados até que ambos os campos (nome e idade) sejam preenchidos.
@@ -43,9 +23,9 @@ unzip BOTOES-DESABILITADOS.zip
 
 ## NÃO SABE?
 - Entendemos que para manipular arquivos em `HTML`, `CSS` e outras linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
-* [Curso de HTML e CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
-* [Curso de JavaScript](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
-* [Confira mais cursos](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
+* [CURSO DE HTML E CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
+* [CURSO DE JAVASCRIPT](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
+* [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## SUBSÍDIOS:
 - [CLIQUE AQUI PARA ACESSAR AO MINICURSO](./MINICURSO.md)
